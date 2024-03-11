@@ -25,7 +25,7 @@ const columns = [
   { id: "phoneNumber", label: "Phone Number", minWidth: 50 },
   { id: "collegeName", label: "College Name", minWidth: 50 },
   { id: "department", label: "Department", minWidth: 50 },
-  { id: "selectedDepartment", label: "Selected Department", minWidth: 50 },
+  { id: "selectedDepartment", label: "Selected Event", minWidth: 50 },
 
   { id: "paid", label: "Payment confirmed", minWidth: 50 },
   { id: "transactionNumber", label: "Transaction Number", minWidth: 100 },
